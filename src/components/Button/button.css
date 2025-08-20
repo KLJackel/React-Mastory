@@ -1,0 +1,13 @@
+body {
+    display:flexbox;
+    justify-content: center;
+}
+.btn {
+    padding: 20px;
+    color:white;
+    background-color: goldenrod;
+    display: flexbox;
+    border: none;
+    border-radius: 15%;
+}
+
